@@ -92,7 +92,7 @@ Some text on the left pane
 Some text on the right pane
 
 ```{r your-chunk-name, echo=FALSE, fig.cap="your-caption-name"}
-knitr::include_graphics("C:/Users/Subhayan/Documents/Work/Sketchpad.png")
+knitr::include_graphics("images/Sketchpad.png")
 
 #The figure will appear on the right side of the slide...
 ```
